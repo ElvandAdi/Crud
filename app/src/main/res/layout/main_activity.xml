@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_image"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="24dp"
+        android:text="Sign Up"
+        android:textSize="18dp"
+        android:textColor="#F9FBE7"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+    <Button
+        android:id="@+id/btn_login"
+        android:layout_width="128dp"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textAllCaps="false"
+        android:layout_marginBottom="40dp"
+        android:background="@drawable/btn_bg"
+        android:drawableLeft="@drawable/ic_login"
+        android:textSize="18dp"
+        app:layout_constraintBottom_toTopOf="@id/textView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        />
+    <TextView
+        android:id="@+id/txtForget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Forget Passsword?"
+        android:textColor="#F9FBE7"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/btn_login"
+        android:layout_marginBottom="15dp"
+        />
+    <EditText
+        android:id="@+id/txtPass"
+        android:layout_width="320dp"
+        android:layout_height="40dp"
+        android:hint="Password"
+        android:textColorHint="#7A7878"
+        android:textColor="#7A7878"
+        android:background="@drawable/input_bg"
+        android:drawableLeft="@drawable/ic_pass"
+        android:drawablePadding="8dp"
+        android:padding="8dp"
+        android:ems="10"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginBottom="250dp"
+        app:layout_constraintBottom_toTopOf="@+id/txtForget"
+        />
+    <EditText
+        android:id="@+id/txtUser"
+        android:layout_width="320dp"
+        android:layout_height="40dp"
+        android:hint="Username"
+        android:textColorHint="#7A7878"
+        android:textColor="#7A7878"
+        android:background="@drawable/input_bg"
+        android:drawableLeft="@drawable/ic_user"
+        android:drawablePadding="8dp"
+        android:padding="8dp"
+        android:ems="10"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toTopOf="@+id/txtPass"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="30dp"
+        android:text="LOGIN"
+        android:textSize="80dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/txtUser"/>
+
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
