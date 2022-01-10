@@ -3,8 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/drawable/btn_bg.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/drawable/custom_button.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/drawable/ic_login.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/drawable/ic_pass.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/drawable/ic_user.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/drawable/input_bg.xml" value="0.21614583333333334" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/activity_dasboard.xml" value="0.2" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/activity_insert_data.xml" value="0.2" />
         <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/item_mhs.xml" value="0.2" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/dashboard.xml" value="0.2" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/insert_data.xml" value="0.2" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/item_mhs.xml" value="0.33" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/login.xml" value="0.2" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/main_activity.xml" value="0.2" />
+        <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/tambah_data.xml" value="0.2" />
         <entry key="..\:/Users/Elvanda Adi Putra/AndroidStudioProjects/Crud/app/src/main/res/layout/update_dialog.xml" value="0.2" />
       </map>
     </option>
